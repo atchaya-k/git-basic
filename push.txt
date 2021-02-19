@@ -1,0 +1,8 @@
+1.create repository in git
+2.cd desktop/
+git clone(repo link)
+cd repo-name
+touch new-file
+git add new-file
+git commit new-file
+git push
