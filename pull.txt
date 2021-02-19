@@ -1,0 +1,6 @@
+create new file on git
+to add it to local -- git pull
+other git command 
+git stash -to move unwanted change to temporary stack to get back use --- git stash pop
+to copy file from one branch to another----git merge branch  git push
+to ad many untracked file.---git add.  or git add*.txt
